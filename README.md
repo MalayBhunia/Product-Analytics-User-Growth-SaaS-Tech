@@ -57,19 +57,19 @@ The report has three pages designed to answer complementary business questions.
 
 High-level KPIs and trends across users, acquisition, paid conversion, revenue, and churn.
 
-![Executive Overview dashboard](assets/dashboard/executive_overview.png)
+![Executive Overview dashboard](assets/Dashboards/overview.png)
 
 ### 2. Product & User Engagement
 
 Session activity, feature adoption, conversion funnel, engagement segments, device trends, and user journeys.
 
-![Product & User Engagement dashboard](assets/dashboard/product_user_engagement.png)
+![Product & User Engagement dashboard](assets/Dashboards/page_2.png)
 
 ### 3. Revenue & Customer Health
 
 Revenue by plan, monthly revenue, churn and retention, marketing efficiency, and support-ticket performance.
 
-![Revenue & Customer Health dashboard](assets/dashboard/revenue_customer_health.png)
+![Revenue & Customer Health dashboard](assets/Dashboards/page_3.png)
 
 **[Open the interactive Power BI dashboard](YOUR_POWER_BI_DEMO_LINK_HERE)**
 
