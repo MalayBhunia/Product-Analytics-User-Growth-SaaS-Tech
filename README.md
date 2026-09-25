@@ -6,7 +6,7 @@
 
 > **Portfolio project:** Analysis of a **synthetic** SaaS dataset covering **January 2022–August 2026**, with **100,000 users** and activity across acquisition, engagement, subscriptions, revenue, marketing, and customer support. Figures represent simulated business data, not the performance of a real company.
 
-**[View Live Dashboard](YOUR_POWER_BI_DEMO_LINK_HERE)** · **[View Portfolio](https://malaybhunia-ds.netlify.app/)** · **[Explore SQL Insights](business_insights.md)**
+**[View Live Dashboard](SaaS_Analytics_Dashboards.pbit)** · **[View Portfolio](https://malaybhunia-ds.netlify.app/)** · **[Explore SQL Insights](Business_Insights.md)**
 
 <!-- Replace YOUR_POWER_BI_DEMO_LINK_HERE after publishing your Power BI report. -->
 
@@ -71,7 +71,7 @@ Revenue by plan, monthly revenue, churn and retention, marketing efficiency, and
 
 ![Revenue & Customer Health dashboard](assets/Dashboards/page_3.png)
 
-**[Open the interactive Power BI dashboard](YOUR_POWER_BI_DEMO_LINK_HERE)**
+**[Open the interactive Power BI dashboard](SaaS_Analytics_Dashboards.pbit)**
 
 ## Selected findings
 
@@ -107,7 +107,7 @@ The PostgreSQL analysis covers **24 business questions** organized into six sect
 5. Retention & Churn
 6. Marketing & Support
 
-See **[Business Insights](business_insights.md)** for the queries, outputs, and interpretations. Add your SQL scripts under `sql/` if you decide to publish them separately.
+See **[Business Insights](Business_Insights.md)** for the queries, outputs, and interpretations. Add your SQL scripts under `sql/` if you decide to publish them separately.
 
 ## Repository structure
 
